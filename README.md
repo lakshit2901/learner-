@@ -1,2 +1,2 @@
-[![kro bhai deploy ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=Link)
+[![lund](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=Link)
 
