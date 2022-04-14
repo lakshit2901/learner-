@@ -21,4 +21,5 @@
 ## Credits
    - Special thanks to [lakshit](https://t.me/kdrnat)
 
-[![Run on Repl](https://replit.com/@lakshitcoder/eda#README.md)]
+[![Run on Repl]](https://replit.com/@lakshitcoder/eda#README.md)
+
