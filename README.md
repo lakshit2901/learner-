@@ -21,5 +21,6 @@
 ## Credits
    - Special thanks to [lakshit](https://t.me/kdrnat)
 
-[![Run on Repl]](https://replit.com/@lakshitcoder/eda#README.md)
+#string
+   [![Run on Repl.it](https://repl.it/badge/github/lakshit2901/learner)](https://replit.com/@lakshitcoder/Session)
 
